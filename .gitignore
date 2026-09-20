@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+overlay_pos.json
+*.log
+.claude/

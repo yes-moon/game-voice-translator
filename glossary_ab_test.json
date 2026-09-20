@@ -1,0 +1,27 @@
+[
+  {
+    "원문": "gg guys, ult is ready, cover me!",
+    "사전OFF": "gg 친구들 알트 준비됐어요 날 덮어줘",
+    "사전ON": "좋은 게임이야 얼티메이트가 준비됐어요 날 보호해줘"
+  },
+  {
+    "원문": "enemy inc, fall back and group up",
+    "사전OFF": "적 inc 뒤로 물러서고 군집해",
+    "사전ON": "적 적 들어오는 철수하고 함께 모이고"
+  },
+  {
+    "원문": "go go go push B site now, I will plant the bomb, cover me!",
+    "사전OFF": "가, 가, B 사이트를 누르세요 난 폭탄을 설치할거야 날 덮어줘",
+    "사전ON": "가, 가, B 구역을 공격해! 난 폭탄을 설치할거야 날 보호해줘"
+  },
+  {
+    "원문": "omw to mid, nade ready",
+    "사전OFF": "omw에서 mid까지 나데 준비해",
+    "사전ON": "중부로 가는 길에 수류탄 준비"
+  },
+  {
+    "원문": "nice shot dude, watch out behind you!",
+    "사전OFF": "좋은 샷이군 뒤에서 조심해",
+    "사전ON": "좋은 샷이군 뒤에서 조심해"
+  }
+]

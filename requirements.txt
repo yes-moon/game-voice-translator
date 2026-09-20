@@ -1,0 +1,12 @@
+faster-whisper>=1.2.1
+soundcard>=0.4.4
+PyQt6>=6.6
+deep-translator>=1.11
+numpy>=2.0
+# 로컬 GPU 번역(NLLB) — CTranslate2는 faster-whisper가 끌어옴
+transformers>=4.40
+sentencepiece>=0.2
+torch                 # NLLB → CTranslate2 변환 및 토크나이저용 (CPU 빌드로 충분)
+# CUDA 런타임 (GPU 사용 시)
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
